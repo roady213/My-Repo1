@@ -75,7 +75,7 @@
     "SourceSystem": "SAP",
     "DestinationSystem": "Customer_Portal",
     "Label": "Invoicing",
-    "Direction": "Bi-Directional",
+    "Direction": "BiDirectional",
     "Program": "Customer Management Program",
     "Project": "Finance",
     "Status": "Production"
